@@ -1,2 +1,3 @@
 modify a.txt
 This is the lined added at the remote repository.
+Adding the comments to the file.
