@@ -1,1 +1,2 @@
 new changes to c
+Adding a new line in the c.txt at the remote repository
